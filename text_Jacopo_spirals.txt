@@ -1,0 +1,530 @@
+Archimedis inventa circa elicas. Hoc est spirales lineas et spacia dictis lineis contenta
+ 1 
+ Archimedes Dositheo salutem 
+ Eorum quae ad Cononem missa fuerant theorematum quorum assidue a me flagitas ut demonstrationes conscribam complurium quidem confectas habes in illis quae ab Hercule allata sunt; quasdam vero in hoc libro collegi quas ad te mitto. 
+ Verum ne mirere si in huiusmodi demonstrationum expositione plurimum temporis consumpsimus: hoc enim nobis accidit propter id quod antea quam de his scriberemus eos percuntari et perquirere statueramus qui circa doctrinas versati sunt quique sibi istec investiganda proposuerant. 
+ Nam certa quaedam sunt in geometria theoremata quae non breviter tradi posse principio videantur; eorum investigationem tempore intercipiente. Conon quidem non temporis satis ad haec excogitanda sortitus vitam permutavit et ipsa reliquit inexplicata cum illa invenisset et alia quam plurima perquisisset ac multumadeo geometri facultatem ampliasset. 
+ Novimus enim quantum ingenii quam admirabile in eo viro iudicium vigebat quam non vulgaris circa doctrinas et asidua opera quam excellens studium. 
+ Multis autem annis post Cononis mortem neminem accaepimus inventum fuisse qui ne unum quidem problema tractare tentarit. 
+ Equidem statuo eorum unumquodquae perlustrare. Nam duo quaedam ex iis quae habentur in Conone sunt quae minime deprhensa fuere. Tandem vero accedemus ut ii qui cuncta se gloriantur invenisse nullam autem proferunt eorum quae profantur demonstrationem reprhendantur. 
+ Nam ex iis quae a se inventa volunt falsa quaedam et a nature sunt potestate penitus aliena; quorundam vero iam tenes demonstrationes ad te missas quorundam in hoc libro contulimus dignum existimantes esse ut ea tibi explicaremus. 
+ 2 
+ Primum itaque problematum erat: spaera data spacium invenire quod superficiei illius esset aequale, quod quidem quam primum fuit declaratum ex libro quem de spaera comfaecimus. 
+ Nam cum ibi demonstratum esset superficiem spaerae maximo in ea circulo quadruplam haberi illico patuit spacium inveniri posse superficiei spaerae aequale. 
+ 3 
+ Secundum autem: kono seu kylindro dato spaeram ipsi kono vel kylindro aequalem invenire. 
+ 4 
+ Tercium: datam spaeram plano sic secare ut eius portiones inter se propositam proportionem retineant. 
+ 5 
+ Quartum: datam spaeram plano sic secare ut portiones superficiei spaerae servent inter se datam proportionem. 
+ 6 
+ Quintum: datam spaerae portionem alteri spaerae portioni datae similem reddere. 
+ 7 
+ Sextum: duabus portionibus sive eiusdem sive non eiusdem spaerae datis tertiam spaerae portionem invenire quae alteri portionum datarum sit similis superficiem vero superficiei alterius portionis habeat aequalem. 
+ 8 
+ Septimum: a data spaera portionem ea ratione plano abscindere ut abscissa inde portio ad konum qui eadem base et eadem constet altitudine cum portione quamcunque datam proportionem habeat quae quidem proportio ea quam tria ad duo habent proportio minime maior existat. 
+ Horum igitur inventorum omnium Hercules attulit demonstrationes, id autem quod post haec erat separatum falsum existit. Est autem huiusmodi: si spaera plano secetur in partes inaequales maior portio habebit ad minorem eam proportionem duplicatam quam maioris portionis superficies ad minoris habet superficiem. 
+ Constat autem ex iis quae ad te missa sunt hoc falsum esse. Erat item et hoc separatum in illis, si spaera in partes inaequales secetur plano errecto super una quacunque ex iis quae sunt in spaera diametro, maior portio ad minorem eam proportionem habebit quam maior diametri portio ad minorem. Nam maior spaerae portio ad minorem habet proportionem minorem quam sit superficiei maioris ad superficiem minoris proportio duplicata maiorem vero quam sesqualtera illius. 
+ Erat autem et ultimum problema separatum falsum; quod si spaerae alicuius diametrus in partes inaequales scindatur ita ut quadratum maioris partis quadrato minoris existat triplum et per punctum huius divisionis agatur planum errectum super diametrum; ipsam figura tali specie constans qualis est videlicet spaerae portio maxima est aliarum portionum omnium quae habeant superficiem sibi aequalem; quod autem hoc falsum sit ex iis theorematibus manifestum est quae ad te prius missa sunt. 
+ Nam demonstratum est dimidiam spaeram esse omnium spaerae portionum maximam quae aequali inter se superficie sperica contineantur. 
+ Post haec circa konum quoque haec problemata habentur. Si koni rectanguli sectio diametro quiescente circumferatur ita ut diametrus sit axis figura quae a koni rectanguli sectione complectitur, Konoidale vocetur. 
+ Quod si figuram konoidalem planum contigerit et alterum planum agatur plano contingenti aequedistans quod aliquam konoidalis portionem abscindat huius portionis abscissae basis apelletur planum abscindens verticem vero punctum illud in quo alterum planum konoidale contingit. 
+ Quod si dicta figura plano secetur errecto super axem eius sectionem constat circulum fari; quod autem portio abcissa sesquialtera erit koni basem habentis cum portione eandem et axem eundem hoc nos demonstrare oportet. 
+ Item si konoidalis duae portiones abscindantur planis utcumque ductis quod sectiones inde provenientes sint koni acuti anguli sectiones constat, si plana abscindentia super axem non fuerint errecta. 
+ Quod autem portiones habeant inter se proportionem eam quam habent inter se potestate lineae ductae a verticibus earum aequedistantes axi usque ad plana abscindentia hoc restat demonstrare; horum enim ad te nondum sunt missae demonstrationes. 
+ Post haec vero circa spirales lineas haec fuerant proposita. 
+ Est autem hoc veluti aliud problematum genus nihil cum praedictis comunicans; de quibus tibi in hoc libro conscripsimus demonstrationes. 
+ Sunt autem huiusmodi: si recta linea in plano altero eius termino quiescente circumferatur donec ad locum redierit unde primo coepit moveri et simul cum hac circumducta linea punctum feratur, et ipsum sibi ipsi aequali semper velocitate moveatur secundum ipsam lineam motam incipiatque a termino lineae quiescente versus alterum ferri punctum huiusmodi spiralem lineam in plano describet. 
+ Dico itaque spacium a linea spirali et a linea recta quae circumducta fuit comprhensum tertiam partem esse circuli eius qui centrum habeat punctum quiescens intervallum vero secundum eam lineae motae partem quae a puncto moto fuerit in una cirumvolutione permeata; et si lineam spiralem linea recta contigerit in puncto quod fuit in spirali ultimo productum alia item linea recta a puncto circumductae quiescente ducatur ad ipsam circumductam et in locum unde moveri ceperat regressam secundum angulos rectos quousque cum contingente concurrat dico hanc lineam productam circumferentiae circuli in prima circumvolutione producti esse aequalem. 
+ Item si linea circumducta et punctum latum secundum illam pluribus circumvolutionibus circumferantur et in locum unde moveri ceperint multotiens restituantur dico spacii illius quod in secunda circumvolutione fuerit a spirali linea comprhensum, duplum illud existet quod in tertia comprhendetur. Quod vero in quarta triplum quod in quinta quadruplum et sic deinceps semper spacia in posterioribus circumvolutionibus conclusa secundum consequens augmentum numerorum multiplicia erunt ad spacium in secunda revolutione conclusum, spacium vero in prima revolutione contentum sexta pars existet spacii in secunda revolutione comprhensi. 
+ 9 
+ Item si in spirali linea duo puncta notentur et ab eis iungantur lineae rectae ad terminum lineae cirumductae quiescentem et duo circuli circumscribantur centro quod sit punctum quiescens secundum intervala duarum linearum rectarum quae ad quiescentem lineae spiralis terminum ductae fuerunt et earum linearum minor extra ducatur dico spacium comprhensum circumferentiae maioris circuli parte illa quae in eandem partem cum linea spirali fertur mediaque inter lineam rectam et spiralem lineam habeantur et a linea recta extra ducta et a linea spirali ad spacium comprhensum sub minoris circuli ea circumferentiae parte quae inter eandem lineam spiralem et lineam rectam media existit et sub linea quae earum terminos iungit et sub eadem linea spirali eam proportionem habet quam linea semidiametros maioris circuli cum duabus terciis illius excessus quo semidiametrum minoris excedit habet ad semidiametrum maioris cum una dicti excessus tertia parte. 
+ Istorum itaque et aliorum circa spirales lineas sunt a me in hoc libro demonstrationes collatae. Premittuntur vero veluti in ceteris quae geometria sunt disciplina tractata quaedam quae ad illorum demonstrationem sunt pernecessaria. 
+ Sumo autem in his quoque ea quae in aliis quos prius edidi libris sumpta fuerunt; videlicet linearum inaequalium et spaciorum inaequalium excessus quo maius excedit minus illi adiectus fieri potest ut vincat omnem propositam quorumcunque inter se relatorum proportionem. 
+ 10 
+ Propositio I. 
+ 
+ Si secundum quampiam lineam punctum feratur ipsum sibi ipsi aequevelociter et in latione illa duas lineas permeet, lineae illae eandem inter se proportionem habebunt quam tempora habent quibus punctum lineas permeavit. 
+ 11 
+ Feratur itaque quoddam punctum secundum lineam $ab$ aequevelociter et sumantur in ea duae lineae $cd$ $de$. 
+ Esto autem tempus in quo punctum permeavit lineam $cd$, esto $fg$, in quo vero permeavit $de$, esto $gh$. 
+ Ostendendum est igitur quod $cd$ linea ad lineam $de$ eam habet proportionem quam tempus $fg$ ad tempus $gh$. 
+ Ex lineis itaque $cd$ $de$ componantur lineae $ad$ $db$ secundum quamcunque compositionem ita ut $ad$ excedat $db$ et quotiens $cd$ linea sumitur in $ad$ totiens tempus $fg$ sumatur in tempore $lg$; quotiens autem $de$ linea sumitur in $db$ totiens tempus $gh$ sumatur in tempore $gk$. 
+ Quoniam itaque supponitur punctum aequevelociter latum esse per lineam $ab$, manifestum est in quo tempore lineam $cd$ permeaverit in tanto quamcunque ipsi $cd$ aequalem permeaturum esse; quare palam est quod lineam $ad$ compositam in tanto tempore permeabit quantum est totum $lg$ tempus; cum totiens sumatur $cd$ linea in linea $ad$, quotiens tempus $fg$ in tempore $lg$ et eadem ratione in tanto tempore punctum permeabit lineam $db$ quantum est $gk$ tempus. 
+ Cum igitur $ad$ linea sit maior $bd$, manifestum est quod in maiori tempore punctum permeabit lineam $ad$, quam lineam $bd$; quare colligitur tempus $lf$ maius esse tempore $lk$. 
+ Similiter autem ostendetur si ex temporibus $fg$ $gh$ componantur tempora secundum quamcunque compositionem eo pacto ut alterum excedat reliquum quod compositae ex $cd$ et $de$ lineae secundum eandem compositionem altera alteram superabit eodem ordine sumptae cum temporibus. 
+ Constat igitur $cd$ eandem ad $de$ habere proportionem quam habet tempus $fg$ ad ipsum tempus $gh$. 
+ 12 
+ Propositio II. 
+ 
+ Si duo puncta in duabus lineis ferantur unumquodque sibi ipsi aequevelociter, sumanturque in utraque linea duae lineae, primae duae in temporibus aequalibus a punctis permeatae et secundae duae in altera linea sumptae lineae eandem inter se proportionem habebunt. 
+ 13 
+ Esto per lineam $ab$ punctum feratur, ipsum sibi ipsi aequevelociter et alterum item punctum per lineam $kl$. 
+ Sumantur autem in $ab$ duae linae $cd$ $de$ et in linea $kl$ sumantur $fg$ $gh$. 
+ In quo autem tempore punctum per $ab$ latum lineam $cd$ permeaverit in tanto alterum punctum per $kl$ latum permeet $fg$; similiter in tanto tempore punctum permeet lineam $de$ in quanto alterum $gh$. 
+ Ostendendum est $cd$ eandem habere ad $de$ proportionem quam $fg$ ad $gh$. 
+ Esto itaque tempus punctum lineam $cd$ permeavit $mn$, in hoc itaque eodem tempore alterum punctum permeavit $fg$. 
+ Et item esto tempus $nx$ in quo punctum permeavit lineam $de$ et in hoc eodem alterum punctum permeat $gh$. 
+ Eandem itaque proportionem habebit $cd$ ad $de$ quam tempus $mn$ ad $nx$ et $fg$ ad $gh$ eam habet quam tempus $mn$ ad $nx$. 
+ Constat igitur $cd$ eandem habere ad $de$ proportionem quam habet $fg$ ad $gh$. 
+ 14 
+ Propositio III. 
+ 
+ Circulis quacumque multitudine datis inveniri quaedam linea recta potest quae omnibus simul datorum circumferentiis maior existat. 
+ 15 
+ Si enim unicuique circulorum figura multorum angulorum circumscribatur, manifestum est quod linea recta ex omnibus earum lateribus composita omnibus simul circulorum circumferentiis maior existet. 
+ 16 
+ Propositio IV. 
+ 
+ Duabus lineis inaequalibus datis altera recta altera circulari potest quaedam recta linea quae maiore datarum linearum minor et minore maior habeatur. 
+ 17 
+ Si enim Excessus quo recta superat circularem totiens sibi ipsi coacervetur donec maiorem rectam recta data conficiat; deinde recta data in tot partes aequales dividatur quotiens excessus sibi ipsi fuerit coacervatus, una ex partibus illis ipso excessu minor existet. 
+ Quod si circularis sit maior recta, si ipsi rectae una pars vel minima adiiciatur, constat hanc rectam sic confectam maiore linearum minorem et minore maiorem haberi .
+ Nam quae utrinque adiicitur pars aut detrahitur excessu minor existit. 
+ 18 
+ Propositio V. 
+ 
+ Circulo dato et linea recta ipsum contingente potest a centro circuli linea quaedam recta ad rectam contingentem hoc pacto duci ut ea ipsius ductae pars quae inter contingentem et circuli circumferentiam intercipitur ad semidiametrum circuli habeat minorem proportionem quam ea circumferentiae pars quae inter contactum et lineam ductam media existit ad quamcunque datam circumferentiae partem. 
+ 19 
+ Esto circulus datus $abc$ cuius centrum sit $k$ et recta linea $df$ contingat circulum in puncto $b$; detur etiam pars circumferentiae quecumque fuerit. 
+ Potest autem ea circumferentiae parte data sumi linea recta maior sitque ea sumpta $e$. 
+ Ducatur autem a centro $k$ linea $ag$ aequidistans ipsi $df$ et ponatur $hg$ aequalis ipsi $e$ et tendens ad $b$ a centro $k$ ducta ad $h$ educatur donec concurrat cum contingente in puncto $f$. 
+ Eandem igitur habet proportionem $hf$ ad $hk$ quam $bh$ ad $hg$. 
+ Igitur $fh$ ad $hk$ minorem habet proportionem quam $bh$ circumferentiae pars ad datam circumferentiae partem. 
+ Quoniam $bh$ linea recta est minor arcu $bh$ et linea $hg$ maior est data circumferentiae parte, questa parte \ igitur minorem proportionem habet $fh$ ad eam quo a centro producitur quam $bh$ circumferentia ad datam circumferentiam. dato 
+ 20 
+ Propositio VI. 
+ 
+ Circulo dato, linea recta in eo deinde collocata quae quidem diametro minor existat, potest a circuli centro linea recta ad circumferentiam duci quae a linea in circulo collocata eo pacto secet ut pars ipsius lineae ductae quae inter circumferentiam et lineam collocatam media deprhenditur ad lineam quae iungat lineae collocatae et ductae terminos in circumferentia constitutos habeat quamcunque proportionem datam, dum tamen proportio illa minor ea existat proportione quam habet dimidia lineae in circulo collocatae ad lineam quae a centro sit ad collocatam perpendiculariter educta. 
+ 21 
+ Esto datus circulus $abc$ eius centrum $k$ et in ipso sit collocata linea recta $ac$ minor diametro et habeat $f$ ad $g$ minorem proportionem quam $ch$ ad $hk$ quae sit a centro $k$ ad lineam $ac$ perpendiculariter educta. 
+ Ducatur autem a centro linea aequdistans ipsi $ac$ quae sit $kn$ et educatur a puncto $c$ secundum angulos rectos linea $cl$ usque ad lineam $kn$, trianguli itaque $chk$ et $ckl$ sunt similes. 
+ Quare erit sicut $ch$ ad $hk$, ita $ck$ ad $cl$. 
+ Igitur $f$ ad $g$ minorem habet proportionem quam $ck$ ad $cl$ quam itaque proportionem habet $f$ ad $g$ eam habeat $ck$ ad maiorem ipsa $cl$; quae sit $bn$. 
+ Ponatur autem $bn$ inter circumferentiam et lineam collocatam per punctum $c$. 
+ Hoc enim sic potest dividi ut pars intra circulum collocetur, pars extra, per punctum $c$, adhereat ipsi $kn$ in puncto $n$, cum ipsa sit maior $cl$. 
+ Esto itaque sic divisa et collocata deinde ducatur $kb$ linea secans lineam $ac$ primo collocatam in puncto $e$. 
+ Quoniam igitur $kc$ ad $bn$ eam proportionem habet quam $f$ ad $g$ habebit quoque $eb$ ad $bc$ sicut $kc$ ad $bn$ igitur et sicut $f$ ad $g$; quare constat propositum. 
+ 22 
+ Propositio VII. 
+ 
+ Eisdem quae in premissa sunt posita retentis et linae quae in circulo fuerit collocata extra circulum educta potest a centro ad eductam linea recta sic extra circulum educi ut pars eius quae a circumferentia at ab educta extra circulum comprhendatur ad lineam iungentem lineae principio eductae et a centro extra circulum ductae terminos in circumferentia notatos habeat quamcunque proportionem propositam, dum tamen dicta proportio sit ea proportione maior quam habet dimidia lineae in circulo collocatae ad lineam quae a centro ad ipsam collocatam sit perpendiculariter educta 
+ 23 
+ Retineantur itaque ea quae in praemissa posita sunt et linea in circulo collocata extra ducatur et sit proportio data quam habeat $f$ ad $g$, maior proportione quam habet $ch$ ad $hk$ erit quoque maior ea quam habet $kc$ ad $cl$.
+ Quam itaque proportionem habet $f$ ad $g$ eam habeat $kc$ ad minorem $cl$ quae sit $in$ tendens in $c$. 
+ Potest autem sic dividi et cadet intra lineam $cl$ cum sit minor ipsa $cl$. 
+ Cum igitur eandem habeat proportionem $kc$ ad $in$ quam $f$ ad $g$ et ipsa $ei$ ad $ic$ eandem habebit proportionem quam $f$ ad $g$. 
+ 24 
+ Propositio VIII. 
+ 
+ Circulo dato et in circulo linea quae diametro minor sit altera item linea quae circulum contingat in termino lineae in circulo datae, potest a centro circuli linea recta ad lineam rectam educi et ita in directum per lineae in circulo datae sectionem ad circumferentiam protrahi, ita ut pars ipsius inter lineam rectam et circumferentiam deprehensa ad partem illam lineae contingentis quae inter lineam ipsam a centro ductam et punctum contactus concludetur habeat quamcunque proportionem datam, dum tamen dicta proportio minor fuerit ea proportione quam dimidia lineae in circulo datae ad lineam quae a centro sit ad ipsam in circulo datam perpendiculariter educta. 
+ 25 
+ Esto circulus datus $abcd$ eius centrum $k$ et linea recta sit in circulo data $ac$ minor diametro et $xl$ contingat circulum in puncto $c$ et proportio quam habet $f$ ad $g$ sit minor ea quam habet $ch$ ad $hk$. 
+ Erit quoque minor ea quam habet $ck$ ad $cl$ si $kl$ sit aequidistanter ducta ipsi $hc$. 
+ Habeat itaque $kc$ ad $cx$ eam quam habet $f$ ad $g$ proportionem; quare $cx$ erit maior $cl$. 
+ Describatur circulus circa puncta $k$ $x$ $l$; quoniam igitur $xc$ maior est ipsa $cl$ et sunt ambae ad angulos rectos altera alteri ducta potest duci linea $in$ aequalis lineae $cm$ quae tendat ad $k$. 
+ Igitur id quod continetur sub $xi$ $il$ ad contentum sub $ke$ $il$ eam habet proportionem quam $xi$ ad $ke$ et contentum sub $ki$ $in$ ad contentum sub $ki$ $cl$ sicut $in$ ad $cl$; et sicut $xi$ ad $ke$ et sicut $cm$ ad $cl$ et $xc$ ad $kc$ et ad $kb$ et sicut $xi$ ad $ke$ et sicut residua $ic$ ad residuam $be$ aeandem habebit proportionem quam $xc$ ad $kc$ et quam $g$ ad $f$. 
+ Incidit autem $kn$ in contingentem et pars eius quae inter circumferentiam et rectam $ac$ capitur, videlicet $be$, ad partem contingentis inter $kn$ et contactum deprhensam eam habet proportionem quam $f$ ad $g$ proportionem. 
+ 26 
+ Propositio IX. 
+ 
+ Eisdem quae supra posita sunt retentis et linea quae in circulo datur extra circulum ducta potest a centro circuli ad ipsam extra ductam linea quaedam recta sic duci ut pars ipsius quae inter circumferentiam et lineam extra ductam comprhenditur ad partem lineae contingentis quae inter contactum et ipsam a centro ductam intercipitur habeat quamcunque datam proportionem, dum tamen data proportio sit ea proportione maior quam habet dimidia lineae in circulo datae ad lineam quae a centro sit ad ipsam perpendiculariter ducta. 
+ 27 
+ Esto datus circulus $abcd$ et recta in circulo data minor diametro sit $ac$ quae extra circulum ducatur per punctum $c$; et altera linea $xc$ contingat circulum in puncto $c$ et proportio $f$ ad $g$ sit maior proportione $ch$ ad $hk$. 
+ Erit quoque maior proportione $kc$ ad $cl$. 
+ Habeat igitur $kc$ ad $cx$ eam quam habet $f$ ad $g$; ergo $cx$ minor est ipsa $cl$. 
+ Rursus describatur circulum transiens per puncta $xkl$; cum igitur $xc$ sit minor ipsa $cl$ et ambae altera alteri ad angulos rectos insistunt $xc$ et $km$, potest $in$ poni aequalis ipsi $cm$ quae tendat in punctum $k$. 
+ Cum itaque contentum sub $xi$ $il$ ad contentum sub $lk$ $ke$, sic se habet sicut $xi$ ad $ke$ et contentum sub $xi$ $il$ equale est contento sub $ki$ $in$; contentum vero sub $li$ $ke$ est aequale contento sub $ki$ $cl$ proptera est sicut $ke$ ad $ik$ ita $lc$ ad $li$, sicut ergo $xi$ ad $ke$ sit contentum sub $ki$ $in$ ad contentum sub $ki$ $cl$. Hoc est sicut $ni$ ad $cl$ hoc idem est sicut $cm$ ad $cl$. 
+ Est autem sicut $cm$ ad $cl$ ita $xc$ ad $kc$ hoc est ad $kb$. Est igitur sicut $xi$ ad $ke$ ita $xc$ ad $kb$ et residua $ic$ ad residuam $be$ sicut $xc$ ad $kc$. 
+ Quam autem proportionem habet $xc$ ad $kc$ eam habet $g$ ad $f$. 
+ Incidit iam $ke$ in lineam extra circulum ductam et $be$ inter extra ductam et circumferentiam comprhensa ad $ci$ inter contactum et ipsam $ke$ interceptam eam habet quam $f$ ad $g$ proportionem. 
+ 28 
+ Propositio x. 
+ 
+ Si lineae quotcunque numero consequenter disponantur quae sese aequaliter excedant sitque excessus brevissimae illarum aequalis, item aliae sumantur lineae numero praedictis aequales magnitudine vero una quaeque aequalis longissimae illarum, quadrata omnium quae sunt aequales longissimae et quadratum longissimae et contentum sub brevissima et linea aequali omnibus simul aequaliter sese excedentibus haec omnia simul sumpta tripla erunt ad quadrata linearum sese equaliter excedentium simul sumpta. 
+ 29 
+ Sunto itaque quotcunque lineae consequenter positae quae sese aequaliter excedant $ac$ $cd$ $ef$ $gh$. Sit autem $h$ aequalis excessui, adiiciatur vero ipsi $b$ linea $i$ aequalis ipsi $h$ ipsi quoque $c$ addatur $k$ aequalis ipsi $g$ ipsi $d$ addatur $l$ aequalis $f$ ipsi $e$ apponatur $m$ aequalis ipsi $e$ ipsi $f$ addatur $n$ aequalis $d$ ipsi $g$ addatur $x$ aequalis $c$ ipsi demum $h$ addatur $o$ aequalis $b$. 
+ Haec igitur quae confectae sunt erunt inter se aequales et longissimae praedictarum. 
+ Est igitur ostendendum quod quadrata istarum omnium simul cum quadrato ipsius $a$ et eo quod continetur sub $h$ et sub aequali omnibus simul $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$ tripla sunt ad quadrata simul omnium $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$. 
+ Est itaque quadratum $bi$ aequale duobus quadratis $b$ et $i$ et duobus his quae fiunt ex $b$ in $i$; quadratum vero $kc$ est equale quadratis $k$ et $c$ et duobus his quae continentur sub $c$ $k$. Similiter quadrata reliquarum quae sunt aequales ipsi $a$ erunt aequalia quadratis partium suarum et duobus his quae sub earum partibus continentur. 
+ Quadrata igitur $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$ et quadrata $i$ $k$ $l$ $m$ $n$ $x$ $o$ $p$ simul cum quadrato $a$ dupla sunt ad quadrata $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$. 
+ Reliquum ostendemus quod dupla eorum quae sub partibus unius cuiusque lineae aequalis $a$ continentur simul sumpta cum contento sub $h$ et linea aequali omnibus simul $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$ sunt aequalia quadratis $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$. 
+ Quoniam itaque duo quae sub $i$ et $b$ continentur aequantur duobus contentis sub $h$ et $b$, duo autem quae sub $k$ et $c$ equantur $d$ contento sub $h$ et quadruplo $c$, quia $k$ est dupla ipsius $h$, duo vero contenta sub $l$ $d$ equantur contento sub $h$ et sexcuplo ipsius $d$, quia $l$ est tripla ipsius $h$, similiter et alia dupla eorum quae sub partibus continentur aequantur contento sub $h$ et sub multiplici cuiuscumque secundum numeros pares consequentur lineae sequenti multiplices. 
+ Omnia igitur simul sumpta cum eo quod continetur sub $h$ et sub aequali omnibus $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$ equabuntur contento sub $h$ et sub aequali omnibus ipsi $a$ et triplo ipsius $b$ quincuplo $c$ et semper impari secundum numeros impares consequentur multiplices lineae sequentis. 
+ Quadrata quoque ipsarum $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$ aequalia sunt ei quod continetur sub eisdem lineis. 
+ Nam quadratum ipsius $a$ est aequale contento sub $h$ et sub aequali reliquis illis quarum unaquaeque aequatur ipsi $a$; aeque multipliciter enim $h$ mensurat ipsam $a$ sicut $a$ mensurat omnis sibi aequales simul sumptas. 
+ Quare quadratum ipsius $a$ est aequale contento sub $h$ et omnibus simul aequalibus ipsi $a$ et dupla ipsarum $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$. Nam illae quae sunt aequales ipsi $a$ omnes dempta $a$ duplae sunt ad $a$ $b$ $c$ $d$ $e$ $f$ $g$ $h$. 
+ Similiter quadratum $b$ equatur contento sub $h$ et sub linea aequali ipsi $b$ et dupla ipsis $c$ $d$ $e$ $f$ $g$ $h$ et item quadratum $c$ aequatur contento sub $h$ et sub aequali ipsi $c$ et dupla ipsarum $e$ $f$ $g$ $h$ . 
+ Similiter aliarum quadrata aequantur 
+ Aequabuntur contentis sub $h$ et sub aequali unicuique et dupla reliquarum. Quare constat quadrata omnium aequalia esse ei quod continetur sub $h$ et sub aequali omnibus et ipsi $a$ et tripla $b$ et quincupla $c$ et secundum numeros consequenter impares multiplici sequentis lineae. 
+ 30 
+ Corolarum. 
+ 
+ Ex hoc igitur manifestum est quadrata simul omnia linearum aequalium longissimae quadratis simul omnibus linearum sese aequaliter excedentium minus quam tripla esse cum assumptis quibusdam tripla efficiantur illis. 
+ Reliquis vero dempto longissimae quadrato plusquam tripla inveniuntur cum assumpta sint minus quam tripla ad quadrata longissimae. 
+ Et si simili forma describantur ab omnibus et ab his quae sese aequaliter excedunt et ab his quae sunt aequales longissimae earum quidem quae sunt ab his quae sese aequaliter excedunt formarum minus quam tripla existent; reliquarum vero dempta ea quae a longissime fiet plusquam tripla. 
+ Nam similia specie eandem habebunt inter se proportionem quam quadrata habent. 
+ 31 
+ Propositio XI. 
+ 
+ Si lineae quotcunque numero consequenter disponantur quae sese aequaliter excedant et aliae item lineae sumantur quae quidem dictis lineis sint multitudine una linea pauciores magnitudine vero una quaeque aequalis longissimae, harum aequalium quadrata simul omnia ad quadrata linearum sese aequaliter excedentium dempta illarum brevissima minorem habent proportionem quam quadratum longissimae ad id quod est aequale utrisque simul ei quod sub longissima brevissimaque continetur et tertiae parti quadrati lineae illius qua longissima excedit brevissimam. 
+ Ad quadrata vero linearum sese aequaliter excedentium dempto longissimae quadrato habet maiorem proportionem quam sit superius dicta proportio. 
+ 32 
+ Esto itaque quotcumque numero lineae sese equaliter excedentes, deinceps positae $ab$ excedens $cd$ et $cd$ $ef$ et $ef$ $gh$ et $gh$ $ik$ et $ik$ $lm$ et $lm$ $nx$. 
+ Addatur vero ipsi $cd$ quaedam $co$ aequalis uni excessui et ipsi $ef$ aequalis duobus $ep$, ipsi vero $gh$ aequalis tribus $gr$ et aliis eodem modo; erunt itaque quae inde sunt effectae inter se aequales et etiam ipsi longissimae unaquaeque equalis. 
+ Ostendendum itaque est quadrata simul harum omnia ad quadrata simul omnia earum quae sese aequaliter excedunt dempto quadrato $nx$, minorem habent proportionem quam quadratum $ab$ ad id quod aequatur utrisque simul ei quod continetur sub $ab$ $nx$ et tertiae parti quadrati $ny$. 
+ Ad quadrata vero earumdem dempto quadrato ipsius $ab$ maiorem proportione dicta habent proportionem. 
+ Adimatur unicuique earum quae sese aequaliter excedunt equalis excessus quam itaque proportionem habet quadratum $ab$ ad utraque simul ad contentum sub $ab$ $ub$ et ad tertiam partem quadrati $au$ hanc habet quadratum $od$ ad contentum sub $od$ $dq$ et tertiam partem quadrati $oq$ et quadratum $pf$ ad contentum sub $pf$ z$f$ et tertiam partem quadrati z$p$ et quadrata reliquarum ad spacia similiter sumpta. 
+ Et omnia harum omnium $od$ $pf$ $rh$ $sk$ $tm$ $yx$, ad omnia contenta sub $nx$ et equali omnibus simul dictis lineis et tertias partes quadratorum $oq$ $pz$ $r9$ $s$s $t$k $yn$ eandem habebunt proportionem quam quadratum $ab$ ad utraque simul ad contentum sub $ab$ $ub$ et tertiam partem quadrati $au$. 
+ Si igitur ostendatur contentum sub $nx$ et sub aequali omnibus simul his $od$ $pf$ $rh$ $sk$ $tm$ $yx$ et tertiae partes quadratorum $oq$ $pz$ $r9$ $sl$ $t$k $yn$ quadratis $ab$ $cd$ $ef$ $gh$ $ik$ $lm$ esse, minora quadratis vero $cd$ $ef$ $gh$ $ik$ $lm$ maiora esse propositum ostensum erit. 
+ Illud igitur quod sub $nx$ et sub aequali omnibus simul $od$ $pf$ $rh$ $sk$ $tm$ $yx$ et tertiae partes quadratorum $oq$ $pz$ $r$9 $s$s $t$k $yn$ aequantur quadratis harum $qd$ $zf$ $9h$ s$k$ k$m$ $nx$ et contento sub $nx$ et sub aequali omnibus simul $oq$ $pz$ $r$9 $sl$ $t$k $yn$; quadrata vero $ab$ $cd$ $ef$ $gh$ $ik$ $lm$ aequantur quadratis harum $bu$ $qd$ $zf$ 9$h$ s$k$ k$m$ et quadratus $ab$ $cq$ $ez$ 9$o$ $i$s $l$k et contento sub $bu$ et dupla istarum simul $au$ $cq$ $ez$ $g9$ $i$s $l$k, comunia itaque sunt utrinque quadrata lineae equalis ipsi $nx$. 
+ Contentum autem sub $nx$ et sub aequali simul istis $oq$ $pz$ 9$r$ s$s$ k$t$ $yn$ minus est contento sub $bu$ et dupla istarum simul $au$ $cq$ $ez$ 9$g$ $i$s $l$k, quia lineae nuper dictae sunt aequales istis $co$ $ep$ $rg$ $is$ $lt$ $yn$ residuis vero sunt maiores et quadrata istarum $au$ $cq$ $ez$ $g$9 $i$s $l$k, hoc enim ostensum fuit supra; spacia igitur predicta minora erunt quadratis istarum $ab$ $cd$ $ef$ $gh$ $ik$ $lm$. 
+ Reliquum igitur ostendemus quod sunt maiora quadratis $cd$ $ef$ $gh$ $ik$ $lm$ $nx$. 
+ Rursus itaque quadrata istarum $cd$ $ef$ $gh$ $ik$ $lm$ $nx$ equantur quadratis $qc$ $ez$ $g9$ $i$s $l$k et quadratis $dq$ $fz$ $h$9 $k$s k$m$ $nx$ et contento sub $nx$ et sub dupla harum simul omnium $cq$ $ez$ $9g$ $i$s $l$k. Et sunt comunia quadrata $qd$ $fz$ 9$h$ $k$s $m$k $nx$. 
+ Maius autem est contentum sub $nx$ et sub aequali omnibus simul istis $oq$ $pz$ $r$9 $s$s $t$k $yn$ contento sub $nx$ et sub dupla istarum omnium $cq$ $ez$ $g$9 $i$s $l$k; sunt autem quadrata $qo$ $zp$ 9$k$ s$s$ k$t$ $yn$ quadratis $cq$ $ez$ $g$9 $i$s $l$k plus quam tripla; ostensum enim est istud. 
+ Sunt igitur dicta spacia maiora quadratis $cd$ $ef$ $gh$ $ik$ $lm$ $nx$. Quare constat propositum. 
+ 33 
+ Corolarum. 
+ 
+ Si spacia quoque forma similia describantur ab omnibus et ab his quae sese aequaliter excedunt et ab his quae sunt aequales longissimae illarum formae omnis quae ab his quae sunt aequales longissimae producentur minorem proportionem habebunt ad formas simul omnis quae producentur a lineis sese aequaliter excedentibus dempta brevissimae forma quam quadratum longissimae ad utraque simul ad contentum sub longissima et brevissima et ad tertiam partem quadrati lineae illius qua longissima brevissimam excedit.
+ Ad formas autem easdem dempta longissimae forma proportionem habebunt dicta proportione maiorem. 
+ Similes enim spaciorum formae eandem habebunt quam quadrata habuerunt proportionem. 
+ 34 
+ Definitiones. 
+ 
+ 
+ 35 Si linea recta in plano sit ducta et quiescente altero eius termino equali velocitate circumferatur donec restituatur in eum locum unde moveri ceperat, et simul cum linea circumlata punctum feratur aequali velocitate ipsum sibi ipsi latum et per se secundum dictam lineam latum incipiens a termino quiescente, punctum hoc describet in plano lineam spiralem. 
+ 36 
+ Termimus itaque lineae sic motae quiescens vocetur initium lineae spiralis. 
+ 37 
+ Positio autem lineae a qua linea recta incipit circumferri initium circumlationis. 
+ 38 
+ Linea vero recta quam punctum latum in prima revolutione permeaverit prima vocetur et ea quam dictum punctum in secunda revolutione permeaverit secunda et reliquae similiter pari ordine cum revolutionibus nominentur. 
+ 39 
+ Spacium autem comprensum a linea spirali in prima revolutione descripta et a linea recta quae prima existit primum vocetur; comprhensum vero a linea spirali in secunda revolutionem descripta et a linea secunda vocetur secundum et reliqua deinceps hoc ordine nominentur. 
+ 40 
+ Item si a puncto quod est initium lineae spiralis ducatur linea recta huius lineae ea pars quae in eam partem producitur ubi circumvolutio producitur fit producta procedens vocetur, quae vero in alteram partem ducitur sequens. 
+ 41 
+ Circulus quoque descriptus circa punctum quod est initium lineae spiralis secundum intervallum lineae quae prima vocatur primus et ipse dicatur descriptus vero circa idem centrum secundum intervallum lineae duplae priori secundus dicatur et reliqui deinceps eodem modo. 
+ 42 
+ Propositio XII. 
+ 
+ Si ad spiralem linea in una circumvolutione descriptam quaecumque fuerit illa circumvolutio ab initio spiralis lineae ducantur quotcunque lineae rectae quae inter se angulos aequales efficiant ipse sese aequaliter excedent. 
+ 43 
+ Esto spiralis linea ad quam $ab$ $ac$ $ae$ $af$ lineae rectae sint ductae quae angulos inter se aequales faciant. 
+ Ostendendum est quod $ab$ aequaliter exceditur ab $ac$ et $ac$ ab $ad$ et reliquae similiter. 
+ In quo enim tempore linea circumvoluta ex $ab$ processit ad $ac$ in eodem punctum secundum lineam rectam latum excessum permeavit quo $ca$ excedit $ab$. 
+ In quo vero ex $ac$ in $ad$ in eodem permeavit excessum quo $ad$ superat ipsam $ac$; in tempore vero aequali linea circumvoluta ex $ab$ in $ac$ procedit et ex $ac$ in $ad$ cum anguli sint aequales. In tempore igitur aequali punctum secundum lineam rectam latum permeat excessum quo $ca$ excedit $ab$ et excessum $ad$ excedit $ac$. 
+ Aequali ergo excessu $ac$ superat ipsam $ab$ et $ad$ ipsam $ac$ et reliquae similiter istis ostendentur. 
+ 44 
+ Propositio XIII. 
+ 
+ Si linea recta contingit lineam spiralem in uno solum puncto eam continget. 
+ 45 
+ Esto spiralis linea in qua $a b c d$, esto eius initium $a$ punctum initium vero circumductionis sit $ad$ linea recta et contingat lineam spiralem linea $ef$. 
+ Dico quod in uno solum puncto eam continget. 
+ Quod si fieri potest contingat eam in duobus punctis $g$ $c$ et iungantur $ac$ $ag$ et angulus contentus sub $ca$ $ag$ in duo aequa dividatur. Punctum autem in quo linea dividens dictum angulum incidit in lineam spiralem sit $h$; aequaliter itaque $ag$ excedit $ah$ et $ah$ ipsam $ac$ cum aequales angulos inter se contineant, quare $ag$ $ac$ sunt simul ad $ah$ duplae sed eius lineae quae dividit angulum $cag$ in duo aequa sunt lineae $ac$ $ag$ plusquam duplae. 
+ Manifestum igitur quod punctum in quo $ah$ incidit in lineam rectam $cg$ est inter punctum $a$ et punctum $h$ in linea $ah$. 
+ Igitur $ef$ secabit lineam spiralem cum aliquod punctum in $cg$ linea collocatum sit intra lineam spiralem; suppositum vero fuerat quod eam contingeret in uno igitur puncto $ef$ continget lineam spiralem. 
+ 46 
+ Propositio XIV. 
+ 
+ Si ad lineam spiralem in prima revolutione descriptam incidant duae lineae rectae a punto quod est lineae spiralis initium actae deinde extra producantur usque ad circuli primi circumferentiam eandem habebunt proportionem inter se illae quae in lineam spiralem inciderunt quam partes circumferentiae circuli quae inter terminum lineae spiralis et extrema linearum quae ad circumferentiam productae fuerunt, sumendo partes circumferentiae ab termino lineae spiralis secundum circumvolutionem. 
+ 47 
+ Esto linea spiralis $a b c d e h$ in prima revolutione descripta, initium eius esto punctum $a$ et initium revolutionis esto linea $ah$ recta et circulus $h g k$ esto primus. 
+ Incidant itaque a puncto $a$ duae rectae $ae$ $ad$ lineae ad lineam spiralem et producantur ad circumferentiam circuli quam attingant in punctis $f$ $g$. 
+ Ostendendum est quod $ae$ habet ad ipsam $ad$ eam proportionem quam $h k f$ circumferentiae pars ad $h k g$ partem. 
+ In circunductu enim lineae $ah$ manifestum est punctum $h$ permeasse circumferentiam $h k g$ aequa velocitate qua punctum $a$ per lineam rectam latum permeavit lineam $ad$; et item punctum $h$ per circumferentiam latum equo tempore permeavit $h k f$ circumferentiam quo punctum $a$ lineam $ac$ rectam. 
+ Manifestum est igitur quod $ae$ eandem ad ipsam $ad$ habebit proportionem quam $h k f$ circumferentia ad $h k g$ circumfeentiam. 
+ Hoc autem superius est ostensum similiter vero demostrabitur si altera incidentium linearum in terminum lineae spiralis inciderit, nam idem continget. 
+ 48 
+ Propositio XV. 
+ 
+ Si in lineam spiralem in secunda revolutione descriptam incidant rectae ab initio lineae spiralis eductae eandem inter se habebunt lineae rectae proportionem quam dictae circumferentiae simul cum tota circuli circumferentia sumptae. 
+ 49 
+ Esto lineas spiralis in qua $a b c d h$ quae sit in prima revolutione descripta; item $h l e m$ in secunda et incidant in eam duae rectae $ae$ $al$. 
+ Ostendendum est quod eandem habet $al$ ad $ae$ proportionem quam $h k f$ circumferentia simul cum tota circuli circumferentia ad $h k g$ cum tota circuli circumferentia. 
+ In quanto enim tempore punctum $a$ per lineam rectam latum permeat $al$ lineam et $h$ punctum in eodem per circumferentiam latum totam circuli circumferentiam permeat et insuper $h k f$. 
+ Et item dum $a$ punctum permeat $ae$ et $h$ punctum permeat totam circumferentiam et insuper $h k g$, cum utrumque punctum aequevelociter ipsam sibi ipsi feratur. 
+ Manifestum est igitur quod eandem habebit $al$ linea ad $ae$ proportionem quam $h k f$ cum tota circuli circumferentia ad $h k g$ circumferentia cum tota eadem circuli circumferentia. 
+ Eodem autem modo ostendetur et si in lineam spiralem in tercia revolutione descriptam lineae rectae inciderint eandem habebunt inter se proportionem quam dictae circumferentiae cum tota circuli circumferentia bis sumpta utrisque. 
+ Similiter autem et quae in alias lineas spirales inciderint ostendentur quod eandem habeant proportionem quam dictae circumferentiae cum tota circumferentia circuli secundum numerum uno minorem quam sint revolutiones. 
+ Et si utraque linea incidens in terminos ipsius lineae spiralis inciderit idem eveniet. 
+ 50 
+ Propositio XVI. 
+ 
+ Si lineam spiralem in prima revolutione descriptam recta linea contingat et a puncto contactus ducatur linea recta ad punctum quod est principium lineae spiralis, anguli quos contingens cum ducta facit erunt inaequales. 
+ Et ille quidem qui fuerit in praecedentium parte obtusus existet qui vero in parte sequentium erit acutis. 
+ 51 
+ Esto linea spiralis in $abcdh$ in prima revolutione descripta et esto $a$ punctum principium lineae spiralis. 
+ Linea vero recta $ah$ sit initium lineae spiralis revolutionis, sit primus circulus $hkg$. 
+ Contingat autem aliqua recta linea spiralem lineam quae sit $def$ in puncto $d$ et ab ipso $d$ ducatur ad $a$ linea $da$. 
+ Ostendendum est quod $df$ cum $da$ obtusum angulum facit. 
+ Describatur $dtn$ circulus posito $a$ centro secund intervallum ipsius $da$. 
+ Necesse est itaque ea huius circuli circumferentiam quae est in parte praecedentium infra lineam spiralem cadere, quae vero in parte sequentium extra, quia linea recta ab $a$ ad lineam spiralem in parte precedentium ducta est maior $ad$ linea, quae vero ab ipso $a$ in parte sequentium ducta fuerit ipsa $ad$ minor existet. 
+ Quod autem angulus contentus sub $adf$ non sit acutus patet cum sit maior angulo semicirculi quod autem non sit rectus est sit ostendendum. 
+ Esto si fieri potest sit rectus igitur $edf$ contingit circulum $dtn$. 
+ Iam potest ab $a$ puncto duci linea recta ad contingentem ut eius pars quae inter circumferentiam et contingentem deprhenditur ad semidiametrum minorem habeat proportionem quam habeat circumferentia inter contactum et lineam ductam deprhensa ad circumferentiam datam. 
+ Ducatur itaque ut dictum est $ai$, secat autem ipsa lineam spiralem; esto in puncto $l$ et circumferentiam circuli $dtn$ in puncto $r$, et linea $ri$ recta ad lineam $ar$ minorem habeat proportionem quam $dr$ circumferentia ad $dnt$ circumferentiam. 
+ Tota igitur $ai$ ad $ar$ minorem habet proportionem quam $rdnt$ circumferentia ad $dnt$ circumferentia, haec est quam habet $fghk$ circumferentia ad $kh$ circumferentiam; quam vero habet $fghk$ circumferentia ad ipsam $gkh$ circumferentiam, hanc habet $al$ recta ad $ad$ rectam, hoc etiam iam ostensum fuit. 
+ Minorem igitur proportionem habet $ai$ ad $ar$ quam $la$ ad ipsam $ad$, quod quidem esse non potest; nam $ra$ est aequalis ipsi $ad$. 
+ Non est igitur angulus $adf$ rectus et ostensum est eum non esse acutum, quare obtusus existet; reliquus igitur est acutus. 
+ Similiter ostendetur si contingens contigerit in termino lineae spiralis nam idem eveniet. 
+ 52 
+ Propositio XVII. 
+ 
+ Si lineam spiralem in secunda revolutione descriptam linea recta continget illud idem eveniet. 
+ 53 
+ contingat itaque linea recta $ef$ lineam spiralem in secunda revolutione descriptam in puncto $d$ et ceterae similiter superioribus disponantur similiter circumferentiae $rnd$ circuli pars illa quae erit in parte praecedentium cadet intra lineam spiralem, quae vero in parte sequentium cadet extra; angulus igitur $adf$ non est acutus neque rectus sed obtusus; quod sic demonstratur. 
+ Esto enim si fieri potest sit rectus. 
+ Linea igitur $ef$ continget circulum $rnd$ esto in puncto $d$ ducatur item $ai$ ad contingentem et secet lineam quidem spiralem in puncto $q$, circumferentiam vero circuli $rnd$ in puncto $r$. 
+ Habeat autem $ri$ ad $ar$ minorem proportionem quam $dr$ circumferentia ad totam circuli $rnd$ circumferentiam et ad $dnt$ circumferentiam. 
+ Ostensum enim est hoc esse posse, et iam tota $ia$ ad $ar$ minorem habet proportionem quam $rdnt$ circumferentia cum tota circuli circumferentia ad $dnt$ circumferentiam cum tota $dnt$ circumferentia; sed quam proportionem habet $rdnt$ circumferentia cum tota $dntr$ circuli circumferentia ad $dnt$ circumferentiam cum tota $dntr$ circuli circumferentia hanc habet $sgkh$ circumferentia cum tota circuli circumferentia $hsgk$ ad $gkh$ circumferentiam cum tota circuli $hsgk$ circumferentia; quam autem proportionem habent circumferentiae postremo dictae eam habet $qa$ linea recta ad ipsam $ad$ rectam. 
+ Hoc enim ostensum fuit, minorem igitur proportionem habet $ia$ ad $ar$ quam $aq$ ad ad ipsam $ad$, quod quidem esse non potest, nam $ra$ est equalis ipsi $ad$. 
+ Maior vero est $ia$ quam $aq$ quare constat angulum $adf$ obtusum esse, reliquum vero actum. 
+ Haec eadem evenient si contingens in termino lineae spiralis ipsam contingere ponatur et eadem ratione demonstrabitur ubi lineam spiralem quacunque revolutione descriptam linea recta contigerit etiam in termino ipsius lineae spiralis angulos inaequales fieri cum linea ducta a puncto quod est initium lineae spiralis ad punctum contactus et eum qui in parte precedentium fuerit obtusum esse, qui vero in parte sequentium acutus. 
+ 54 
+ Propositio XVIII. 
+ 
+ Si lineam spiralem in prima revolutione descriptam linea recta contigerit in termino lineae spiralis a puncto autem quod est initium lineae spiralis ducatur linea quedam recta stans angulis rectis super lineam quae initium fuit revolutionis illa ducta coincidet lineae contingenti et eius pars quae inter contingentem et initium spiralis lineae deprhendetur aequalis erit circumferentiae primi circuli. 
+ 55 
+ Esto linea spiralis $abcdh$ esto autem punctum $a$ initium eius linea vero $ha$ initium revolutionis et sit $hgk$ circulus primus; contingat autem quaedam spiralem lineam in puncto $h$ quae sit $hf$ et a puncto $a$ ducatur ad angulos rectos super lineam $ha$ linea $af$ quae coincidet cum $hf$, cum $fh$ $ha$ contineant angulum acutum. 
+ Coincidat itaque in puncto $f$; esto itaque demonstrandum lineam rectam $fa$ circumferentiae circuli $hkg$ esse aequalem. 
+ Si enim non est aut erit ea maior aut minor. 
+ Esto primum si esse potest maior. Sumatur autem quedam recta quae sit minor linea $af$ et maior circumferentia $hkg$. 
+ Est iam $hkg$ circulus quidam et in circulo linea recta minor diametro quae est $gh$ et proportio lineae $ha$ ad $al$ maior est proportione ea quam habet dimidia $hg$ ad lineam ab ipso $ad$ ipsam $hg$ perpendiculariter ductam qui et eam habet quam $ha$ ad $af$. 
+ Potest igitur a puncto $d$ educi ad eductam $an$ ita ut $nr$ quae media intercipitur inter $hn$ eductam et circumferentiam eam habeat proportionem quam $ha$ ad $al$. 
+ Habebit igitur $nr$ ad $ra$ eam quam habet $hr$ recta ad $al$ ipsa, vero $hr$ ad $al$ minorem proportionem habet quam $hr$ circumferentia ad $khg$ circuli circumferentiam, nam $hr$ recta minor est circumferentia $hr$. 
+ Linea vero $al$ recta maior est $khg$ circumferentia circuli, minorem igitur proportionem habebit $nr$ ad $ra$ quam $hr$ circumferentia ad $hkg$ circuli circumferentiam. 
+ Tota igitur $na$ ad $ar$ habet minorem proportionem quam $hr$ circumferentia cum tota circuli circumferentia ad $hkg$ circuli circumferentiam. 
+ Quam autem proportionem habet $hr$ circumferentia cum tota circuli $hkg$ circumferentia ad $hkg$ circuli circumferentiam hanc habet $qa$ ad $ha$; hoc enim ostensum est. 
+ Minorem igitur proportionem habebit $na$ ad $ar$ quam $qa$ ad $ha$ quod quidem esse non potest, nam $na$ maior est ipsa $qa$ et $ar$ est equalis $ha$. 
+ Non est igitur $af$ circumferentia circuli $hkg$ maior. 
+ Esto vero si fieri potest minor $fa$ circumferentia circuli $hkg$, sumatur item quaedam linea $al$ recta quae sit maior $af$ et minor circumferentia circuli $hkg$ et ducatur a puncto $h$ recta $hm$ aequidistans ipsi $af$. 
+ Rursus est circulus $hkg$ et in ipso linea recta $hg$ minor diametro et item alia quae contingit circulum in puncto $h$ et proportio quam habet $ha$ ad $al$ est minor ea quam habet dimidia $gh$ ad lineam ab $a$ ad se ductam perpendiculariter. 
+ Quoniam vero et minor est ea quam habet $ha$ ad $af$ potest ab $a$ duci $ap$ ad contingentem ita ut $rn$ linea inter rectam in circulo datam et circumferentiam comprhensa ad lineam $hp$ comprhensam inter ductam et contactum eam habet proportionem quam $ha$ ad $al$. 
+ Secet autem $ap$ circulum in puncto $r$ lineam vero spiralem in puncto $q$; tunc habebit permutatim eandem proportionem $nr$ ad $ra$ quam $hp$ ad $al$; linea vero $hp$ ad $al$ maiorem habet proportionem quam $hr$ circumferentia ad $hgk$ circuli circumferentiam, nam $hp$ recta maior est $hr$ circumferentia et $al$ minor est $hgk$ circuli circumferentia. 
+ Maiorem ergo habet proportionem $nr$ ad $ar$ quam $hr$ ad $ghk$ circuli circumferentiam, quare et $ra$ ad $an$ maiorem habet proportionem quam $hgk$ circuli circumferentia ad $hkr$ circumferentiam. 
+ Quam autem proportionem habet $hgk$ circuli circumferentia ad $hkr$ circumferentiam eam habet $ha$ recta ad $aq$ nam hoc ostensum est. 
+ Maiorem ergo proportionem habet $ra$ ad $an$ quam $ha$ ad $aq$ quod quidem esse non potest. 
+ Non est ergo minor neque maior $af$ recta $hgk$ circuli circumferentia, igitur est eidem aequalis. 
+ 56 
+ Propositio XIX. 
+ 
+ Si lineam spiralem in secunda revolutione descriptam aliqua linea recta in illius termino contingat et ab initio lineae spiralis ducatur aliqua recta super lineam quae est initium revolutionis constituta ad angulos rectos, illa coincidet cum contingente et linea recta quae media erit inter contingentem et initium lineae spiralis dupla esse probatur circumferentiae circuli secundi. 
+ 57 
+ Esto itaque $abcdh$ linea spiralis in prima revolutione descripta et $het$ in secunda et $hkg$ circulus primus et $tmn$ secundus. 
+ Sit autem $tf$ quaedam linea contingens lineam spiralem in puncto $t$ et $fa$ ducta ad angulos rectos super $ta$ coincidet autem ipsa lineae $tf$ cum sit ostensum angulum $atf$ esse acutum. 
+ Ostendendum itaque est $af$ rectam duplam esse circumferentiae circuli $tmn$. Nam si non est ei dupla aut plus aut minus quam dupla erit eiusdem. 
+ Esto prius si esse potest plusquam dupla et sumatur $al$ recta minor $af$ recta et maior quam dupla circumferentiae circuli $tmn$. 
+ Est iam circulus quidam $tmn$ et in circulo linea data $tn$ minor diametro et quam habet $ta$ ad $al$ maior est proportione quam habet dimidia $tn$ ad perpendicularem ab $a$ centro ad ipsam ductam. 
+ Potest igitur ad $a$ educi $as$ ad $tn$ extractam ita ut media inter $tn$ extractam et circumferentiam quae sit, $rs$ habeat ad $tr$ eam proportionem quam $ta$ ad $al$; secet autem $as$ circulum in puncto $r$ et lineam spiralem in puncto $q$ et permutatim eandem habebit proportionem $rs$ ad $ta$ quam $tr$ ad $al$ ipsa; $tr$ ad $al$ minorem proportionem habet quam $tr$ circumferentia ad duplam circumferentiae circuli $tmn$, nam $tr$ linea recta minor est $tr$ circumferentia. 
+ Recta vero $al$ maior est quam dupla circumferentiae circuli $tmn$, minorem ergo habet proportionem $rs$ ad $ar$ quam $tr$ circumferentia ad duplam circumferentiae circuli $tmn$, tota igitur $sa$ ad $ar$ minorem proportionem habet quam $tr$ circumferentia cum circumferentia circuli $tmn$ bis sumpta ad circumferentiam circuli $tmn$ bis sumptam. 
+ Quam autem proportionem habent dictae circumferentiae, eam habet $qa$ ad $at$ hoc enim ostensum est, minorem ergo proportionem habebit $as$ ad $ar$ quam $qa$ ad $ta$ quod esse non potest. 
+ Non est igitur $af$ plus quam dupla circumferentiae circuli $tmn$. 
+ Similiter autem ostendetur quod neque minor quam dupla illius esse potest, quare constat duplam esse. 
+ Ostendendum quoque si lineam spiralem in quacunque revolutione descriptam recta quaedam contigerit in termino illius et ab initio lineae spiralis ducatur super lineam quae est revolutionis initium linea recta ad angulos rectos ipsa coincidet contingenti et multiplex est circumferentiae circuli secundum revolutionem numerum nominati eodem numero et ipsa multiplex nominata. 
+ 58 
+ Propositio XX. 
+ 
+ Si lineam spiralem in prima revolutione descriptam linea recta contingat non in termino ipsius et a puncto contactus ad initium lineae spiralis recta ducatur et initio lineae spiralis posito centro describatur circulus secundum intervallum lineae ductae, ab initio autem lineae spiralis quaedam recta ducatur super lineam revolutionis initium ad angulos rectos constituta ipsa cum contingente concurret et linea inter huiusmodi concursum et initium lineae spiralis media aequalis est circumferentiae circuli descripti quae inter punctum contactus et sectionis punctum comprhenditur in quo puncto circulus descriptus secat lineam initium revolutionis cum in precedentium parte circumferentia sumatur a puncto quod situm est in revolutionis initio. 
+ 59 
+ Esto linea spiralis in qua $abcd$ in prima revolutione descripta et contingat eam aliqua recta $def$ in puncto $d$ ab ipso vero $d$ ad initium lineae spiralis ducatur linea $da$ et centro $a$ describatur circulus secundum intervallum $ad$ qui sit $dmn$. 
+ Secet autem hic initium revolutionis in puncto $k$, ducatur autem $fa$ ad $ad$ secundum angulos rectos. 
+ Quod autem ipsa concurret cum contingente manifestum est quod vero $fa$ recta sit aequalis $kmnd$ circumferentiae est demonstrandum. 
+ Nam si non vel maior vel ea minor existet. 
+ Esto primum maior si esset potest. Sumatur autem quedam recta $la$ minor recta $fa$ maior circumferentia $kmnd$. 
+ Rursus circulus est $kmn$ et in circulo recta $dn$ minor diametro data et proportio quam habet $da$ ad $al$ maior est ea quam habet dimidia $dn$ ad perpendicularem a centro super ipsam $dn$ ductam. 
+ Potest igitur a puncto $a$ educi $ae$ ad ipsam $nd$ extra ductam ita ut $er$ ad $dr$ eam habeat proportionem quam $da$ ad $al$. 
+ Nam hoc fieri posse ostensum est, habebit igitur $er$ ad $ar$ eam proportionem quam $dr$ ad $al$ et $ar$ ad $al$ minorem habet proportionem quam $dr$ circumferentia ad $kmd$ circumferentiam cum $dr$ recta minor sit $dr$ circum ferentia ipsa vero $al$ sit maior $kmd$ circumferentia. 
+ Minorem ergo proportionem habet $er$ recta ad $ra$ quam $dr$ ad $kmd$ circumferentia ad circumferentiam. 
+ Quare et $ae$ ad $ar$ minorem habebit proportionem quam $kmr$ circumferentia ad $kmd$ circumferentiam quam autem proportionem habet $kmr$ circumferentia ad $kmd$ circumferentiam eam habet $qa$ ad ipsam $ad$ quare minorem proportionem habebit $ea$ ad $ar$ quam $qa$ ad ipsam $da$ quod esse non potest. 
+ Non erit igitur $fa$ maior circumferentia $kmd$. 
+ Similiter autem eis quae antea dicta sunt ostendetur quod neque minor est illa quare aequalem illi esse necesse est. 
+ Eodem autem modo ostendetur et si lineam spiralem in secunda revolutione descriptam recta contingat non in termino illius et ceterae ut prius disponantur quod linea recta media inter contingentem et initium lineae spiralis aequalis est toti circuli descrpti circumferentiae et insuper circumferentiae inter dicta puncta deprhensae totiens sumptae quotiens revolutio facta fuerit. 
+ Item si lineam spiralem in quacunque revolutione descriptam aliqua recta contingerit non in termino ipsius et ceterae disponantur ut supra quod recta media inter dicta puncta multiplex existit circumferentiae circuli descripti secundum numerum uno minorem eo secundum quem revolutio facta fuerit et dicta et insuper media inter dicta puncta aequalis est dictae circumferentiae similiter sumptae. 
+ 60 
+ Propositio XXI. 
+ 
+ Si spacium a linea spirali in prima revolutione descripta et a linea recta initio revolutionis prima comprhensum sumatur potest figura quaedam plana circa ipsum describi et altera intra quae figurae ex frustis similibus sint compositae et ita ut id quo circumscripta inscriptam excesserit quocunque dato spacio minus existat. 
+ 61 
+ Esto linea spiralis in prima revolutione descripta $abcd$. 
+ Esto initium lineae spiralis punctum $h$ et initium revolutionis $ha$. 
+ Primus autem circulus $fgia$ et $ag$ $fi$ diametri ipsius inter se altera alteri perpendicularis, diviso itaque angulo recto per aequalia et frusto spacii angulum rectum continentis et hac divisione in reliquis retenta deveniemus tandem ad residuum quoddam quod minus erit dato spacio et sit illud frustum residuum factum $ahk$ minus dato spacio. 
+ Divisi sunt itaque anguli quattuor recti in angulos aequales illi angulo qui continetur sub $ah$ $hk$ et rectae partientes angulos versus lineam spiralem ductae eam secant. 
+ Esto itaque punctum $l$ in quo $hk$ secat spiram et centro $h$ describatur circulus secundum intervallum $hl$ ; eius itaque pars quae in precedentium parte fertur intra spiralem lineam cadet quae vero in parte sequentium extra. 
+ Describatur itaque eius circumferentia ut incidat in $ah$ in puncto $o$ et sit ipsa $om$ et in lineam quae post $hk$ ad spiram ducta secat illam esto in puncto $n$. Et dicta circumferentia incidat in illam in puncto $m$. 
+ Et item centro $h$ intervallo $hn$ posito describatur circulus huius quoque circumferentia incidet in lineam sequentem $hm$, quae a centro ducta incidit in spiram et similiter in aliis omnibus quae secant lineam spiralem et faciunt angulos secundum unamquamque describantur circuli in centro $h$, eorum circumferentiae in unamquamque incident et in praecedentem et in sequentem et circumferentiae in precedentium parte intra cadent et in parte sequentium extra lineam spiralem. 
+ Iam igitur circa spacium sumptum est circumscripta quaedam figura et alia inscripta eidem quae sunt ex frustis similibus compositae, et circumscripta addit super inscriptam dato spacio minus, quod ostendetur. 
+ Nam frustum $hlo$ est aequale frusto $hlm$ et $hnp$ equatur $hnr$ et $hqs$ ipsi $hqt$ est etiam unumquodque eorum frustorum quae in figura inscripta continentur aequale illi frusto in figura circumscripta conto quod comune latus cum illo habuerit. 
+ Constat igitur omnia frusta omnibus aequalia esse.
+ Figura igitur sumpto spacio inscripta est aequalis figurae circumscriptae eidem dempto $hka$ frusto. Nam hoc solum eorum quae in figura circumscripta existunt relictum est. 
+ Constat igitur circumscriptam figuram inscripta maiorem esse frusto $hka$ quod quidem est proposito spacio minus. 
+ 62 
+ Corolarum. 
+ 
+ Ex hoc itaque manifestum est quod circa dictum spacium potest circumscribi figura qualis dicta est et altera inscribi dicto spacio ita quod circumscripta dicto spacio superaddat minus quocunque spacio dato et inscripta diminuat ab eodem quocunque dato spacio minus et ipsum spacium; figuram inscriptam excedat similiter quocunque spacio dato minus. 
+ 63 
+ Propositio XXII. 
+ 
+ Si sumatur spacium comprhensum a linea spirali in secunda revolutione descripta et a recta quae est secunda in revolutionis initio, potest ipsi spacio quaedam plana figura circumscribi et alia inscribi quae ex frustis similibus sint compositae ita ut id quo circumscripta excedat inscriptam quocunque dato spacio minus sit. 
+ 64 
+ Esto linea spiralis in qua $abcde$ in secunda revolutione descripta et est punctum $h$ initium lineae spiralis et $ah$ initium revolutionis et $ea$ sit recta secunda in revolutionis initio et $afg$ esto circulus secundus $ag$, si diametri ipsius qui sese ad angulos rectos secant. 
+ Et item divisis per aequali angulis rectis et frustis quae continent angulos rectos similiter et pariter divisis et hac divisione perducta, tandem deveniemus ad aliquod residuum quod erit minus quocunque spacio dato, et sit illud $hka$ frustum minus dato spacio. 
+ Divisis angulis rectis in equales angulos ei angulo qui continetur sub $kha$ et ceteris dispositis ut supra erit figura circumscripta excedet inscriptam minus frusto $hka$. 
+ Nam excessus quo frustum $hka$ excedit frustum $her$ minus est spacio dato. 
+ 65 
+ Corolarum. 
+ 
+ Quare constat circumscriptam figuram addere super inscriptam minus dato spacio, et eam super spacium in spira sumptum addere posse minus quocunque spacio dato. 
+ Et ipsum spacium sumptum addere super inscriptam minus quocunque spacio dato et haec fieri posse. 
+ Eodem autem modo constat fieri posse ut sumpto spacio a linea spirali in quacunque revolutione descripta comprhenso et a recta revolutionis initio secundum revolutionis numerum dicta circa ipsum spacium quaedam figura plana circumscribatur et altera inscribatur eidem ut dictum est ita ut id quo circumscripta sumptum spacium excedat minus sit \ quocunque spacio dato. 
+ Et item id quo spacium sumptum excedat inscriptam sibi figuram sit minus quocunque spacio dato. 
+ 66 
+ Propositio XXIII. 
+ 
+ Si sumatur spacium comprhensum a spirali linea quae sit minor ea quae in una revolutione describitur quaeque non habeat terminum lineae spiralis initium et comprhensum a rectis ductis ab initio lineae spiralis ad terminos dictae spiralis spacium comprhendentis potest ipsi spacio plana quaedam figura circumscribi ex frustis similibus composita et alia inscribi eidem ita ut circumscripta excedat inscriptam minus quam sit quodcunque spacium datum. 
+ 67 
+ Esto linea spiralis $abcde$ eius termini $a$ $e$, sit lineae spiralis initium $h$ et iungantur $ah$ $eh$, describatur quoque circulus centro $h$ intervallo $ha$ et incidat in $he$ in puncto $f$. 
+ Angulo itaque ad $h$ posito et frusto $haf$ simul in aequa diviso et divisione tali perducta donec residuum minus existat dato spacio est ut frustum $hak$ minus sit spacio proposito. 
+ Similiter iam his quae supra sunt demonstrata descripti sint circuli per puncta lineam spiralem secantia transeuntes secundum lineas rectas quae faciunt ad $h$ angulos aequales et ductae sunt ita sunt ut et in parte sequentium et in parte precedentium incurrant in circumferentias circulorum quaeque suo loco. 
+ Erit iam ipsi spacio quod a linea spirali $abcde$ et a rectis $ha$ $he$ continetur figura quaedam circumscripta plana ex frustis similibus composita et alia eidem inscripta et excessus quo figura circumscripta superat inscriptam minor est spacio proposito. 
+ Nam frustum $hak$ est minus dato spacio. 
+ 68 
+ Corolarum. 
+ 
+ Ex hoc manifestum est quod circa dictum spacium potest circumscribi figura plana qualis dicta est ita ut circumscripta figura dictum spacium minori spacio superet quam sit spacium quodcunque propositum et spacium ipsum figuram sibi inscriptam minori spacio similiter superet quam sit spacium quodcunque datum. 
+ 69 
+ Propositio XXIV. 
+ 
+ Spacium a linea spirali in prima revolutione descriptam et a recta in revolutionis initio prima comprhensum est tertia pars circuli primi. 
+ 70 
+ Esto linea spiralis in qua $abcdeh$ in prima revolutione descripta est $h$ punctum initium lineae spiralis et $ha$ recta prima in revolutionis initio et $akfgi$ sit circulus primus cuius tertia pars sit circulus in quo k. 
+ Ostendendum est quod praedictum spacium aequale est circulo k; nam si non vel maius erit vel minus eo. 
+ Esto primum si esse potest minus eo circa spacium itaque contentum sub $abcdeh$ linea spirali et sub recta $ha$ describi potest figura quedam plana ex frustis similibus composita et altera ita ut id quo circumscripta figura superat ipsum spacium sit minus eo quo circulus k superat spacium \ dictum. 
+ Circumscribatur itaque et esto frustorum ex quibus componitur dicta maximum $hak$ minimum vero $heo$. 
+ Manifestum igitur quod figura circumscripta minor est circulo k. 
+ Eductae autem sunt lineae rectae ab $h$ facientes anguolo aequales et incidentaes in circumferentiam circuli. 
+ Quaedam vero intra cadunt in lineam spiralem incidentes quae sese aequali excessu superant, quarum maior quidem est $ha$ minor vero $he$ et minima aequalis excessui. 
+ Sunt autem et aliae lineae ab $h$ ad circumferentiam circuli procedentes multitudine quidem praedictis equales magnitudine vero unaquaeque aequalis maximae praedictarum et ab omnibus similia frusta comprhensa sunt et ab his quae sese aequali excessu superant et ab his quae sunt inter se et maximae illarum aequales. 
+ Frusta igitur quae continentur ab his quae inter se sunt et maximae illarum equales sunt minus quam tripla frustorum quae continentur, ab illis quae sese equaliter excedunt; ostensum namque hoc fuit. 
+ Sunt autem frusta ab his comprhensa quae inter sunt et maximae aliarum aequales circulo $afgi$ aequalia. 
+ Frusta vero contenta ab illis quae sese aequaliter excedunt equalia sunt figurae circumscriptae. 
+ Circulus ergo $afgi$ minor est quam triplus figurae circumscriptae. 
+ Ipse vero est triplus circuli k; circulus ergo k minor existet figura circumscripta quod quidem verum non est sed maior existet illa. 
+ Non est igitur spacium comprhensum a linea spirali $abcdeh$ et linea recta $ha$ minor circulo k, neque utique maior. 
+ Esto itaque maior si esse potest; item spacio comprhenso a linea spirali $abcdeh$ et recta $ha$ potest inscribi figura ita ut dictum spacium minus addat super figuram inscriptam quam sit id quod spacium dictum addit super circulum k; inscribatur itaque et esto frustorum ex quibus inscriptam componitur maximum $hrx$, minimum vero $ohe$. 
+ Constat iam figuram inscriptam circulo k esse maiorem. Lineae quae angulos ad $h$ faciebant aequales eductae in circuli circumferentiam inciderunt. 
+ Rursus quaedam rectae sunt sese aequaliter excedentes ab $h$ ad spiram procedentes quarum maxima est $ha$ minima vero $he$ et minima aequatur excessui. 
+ Sunt item aliae lineae ab $h$ puncto ad circuli circumferentiam eductae multitudine quidem aequales predictis, magnitudine vero unaquaeque aequalis maximae illarum et ab omnibus describuntur frusta similia et ab illis quae inter se et maximae aliarum sunt aequales et ab illis quae sese aequaliter excedunt. 
+ Frusta igitur ab illis quae sunt maximae aliarum aequales descripta existunt plusquam tripla frustorum quae a lineis sese aequaliter excedentibus continentur, dempto illo quod a maxima contentum est. 
+ Hoc enim demonstratum fuit. 
+ Frusta vero a lineis maximae aequalibus contenta circulo $afgi$ aequalia sunt, quae vero a lineis sese aequaliter excedentibus comprhenduntur dempto eo quod a maxima aequantur figurae inscriptae. 
+ Circulus igitur $afgi$ est plusquam triplus inscriptae figurae; idem vero triplus est circuli k quare circulus k maior est inscripta figura. 
+ Sed fuerat positus minor; spacium igitur comprhensum a spira $abcdeh$ et a recta $ah$ neque minus circulo k neque maius existit, igitur necesse est esse eidem aequale, quod erat demonstrandum. 
+ 71 
+ Propositio XXV. 
+ 
+ Spacium quod a spirali linea in secunda revolutione descripta et a secunda linea recta in revolutionis initio producta continetur habet ad circulum secundum eam proportionem quam septem ad duodecim quae eadem est quam habent utraque simul contentum sub semidiametro circuli secundi et semidiametro circuli primi et tertia pars quadrati lineae illius qua semidiametros secundi circuli excedit semidiametrum primi circuli ad quadratum semidiametri circuli secundi. 
+ 72 
+ Esto linea spiralis in qua $abcde$ in secunda revolutione descripta esto $h$ punctum lineae spiralis initium, recta vero $he$ in revolutionis initio prima recta autem $ae$ in revolutionis initio secunda, circulus $afgi$ secundus; sint autem $ag$ $if$ diametri eius altera alteri sit perpendicularis. 
+ Ostendendum est itaque spacium contentum a linea spirali $abcde$ et a recta $ae$ ad circulum $afgi$ habere eam proportionem quam septem habent ad duodecim. 
+ Esto circulus quidam k cuius semidiametrus potestate sit aequalis ei quod continetur sub $ah$ $he$ et tertiae parti quadrati lineae $ae$ habebit iam circulus k ad circulum $afgi$ sicut septem ad duodecim, quoniam semidiametrus eius ad semidiametrum $afgi$ circuli eam habet proportionem potestate. 
+ Sed circulus k ostendetur aequalis esse spacio contento a linea spirali et a recta $ae$, nam si non sit vel itaque maior erit vel minor eo; esto itaque primum maius si esse potest. 
+ Circa spacium itaque describi potest quaedam plana figura ex frustis similibus composita ita ut figura circumscripta super spacium addat minus quam sit spacium quo k circulus excedit dictum spacium. 
+ Esto circumscripta et sit $hak$ frustum maximum eorum ex quibus figura circumscripta componitur, minimum vero $hod$. 
+ Constat igitur circumscriptam figuram circulo k esse minorem; educantur lineae rectae quae faciunt angulos aequales ad $h$ versus circumferentiam circuli secundi in eam incidentes. 
+ Erunt iam quaedam lineae rectae sese aequaliter excedentes quae videlicet a puncto $h$ in spiram incidunt quarum maxima est $ha$ minima vero $he$, erunt etiam aliae lineae a puncto $h$ ad circumferentiam circuli $afgi$ eductae multitudine quidem una pauciores illis magnitudine vero et inter se et maximae illarum aequales et confecta sunt frusta similia et ab eis quae sunt inter se et maxime illarum aequales et ab eis quae sese aequaliter excedunt a minima autem non confectum est aliquod. 
+ Frusta igitur ab eis quae sunt aequales maximae illarum confecta habent ad frusta confecta a lineis sese equaliter excedentibus dempto eo quod a minima minorem proportionem quam quadratum $ha$ maximae ad utraque simul haec ad contentum sub $ha$ $he$ et tertiam partem quadrati $ea$; hoc enim ostensum est. 
+ Circulus autem $afgi$ aequatur frustis quae a lineis inter se et maximae illarum aequalibus confecta sunt. Frustis autem confectis a lineis sese equaliter excedentibus equatur figura circumscripta. 
+ Minorem igitur proportionem habet circulus k ad figuram circumscriptam quam quadratum $ah$ ad haec utraque simul ad contentum sub $ah$ $he$ et tertiam partem quadrati $ae$; quam autem proportionem habet quadratum $ah$ ad contentum sub $ah$ $he$ et tertiam partem quadrati $ae$ hanc habet circulus $afgi$ ad circulum k. 
+ Minorem ergo proportionem habet $afgi$ circulus ad figuram circumscriptam quam ad circulum k. 
+ Quare colligitur circulum k minorem esse figura circumscripta quod est contrarium ei quod positum fuerat. 
+ Circulus itaque k spacio a linea spirali $abcde$ et recta $ae$ contento maior esse non potest. 
+ Verum neque minor; esto namque si esse potest. Rursus in spacio a linea spirali $abcde$ et recta $ae$ contento potest quaedam figura plana inscribi ex frustis similibus composita ita ut spacium a linea spirali $abcde$ et recta $ae$ contentum addat super figuram inscriptam minus eo quo ipsum idem spacium excedit circulum k. 
+ Esto igitur inscripta et sit $hkr$ frustum maximum eorum ex quibus componitur inscripta figura, minimum vero sit $heo$. 
+ Constat igitur figuram inscriptam circulo k esse maiorem, educantur lineae rectae quae faciunt angulos aequales ad $h$ versus circumferentiam circuli $afgi$ in quam incidant. 
+ Rursus erunt lineae quaedam sese aequaliter excedentes quae a puncto $h$ in spiralem incidunt quarum maxima $ha$, minima vero $he$. 
+ Erunt item aliae lineae a puncto $h$ ductae in circumferentiam circuli incidentes, multitudine quidem una pauciores illis magnitudine vero et iner se et maximae illarum aequales et a lineis sese aequaliter excedentibus confecta sunt frusta similia et a lineis maximae illarum aequalibus. 
+ Frusta igitur ab aequalibus maximae illarum confecta ad frusta a lineis sese aequaliter excedentibus confecta dempto eo quod a maxima maiorem proportionem habebunt quam quadratum $ha$ ad haec utraque simul ad contentum sub $ah$ $he$ et tertiam partem quadrati $ea$. 
+ Frustis autem quae a lineis sese aequaliter excedentibus sunt confecta dempto eo quod a maxima aequatur figura inscripta spacio, frustis vero aliis circulus aequatur quare sequitur circulum $afgi$ maiorem habere proportionem ad figuram inscriptam quam quadratum $ha$ ad haec utraque simul ad contentum sub $ah$ $he$ et tertiam partem quadrati $ae$, hoc est $afgi$ circulus ad circulum k. 
+ Unde colligitur circulum k figura inscripta esse maiorem quod positioni contrarium existit. Neque igitur circulus k spacio a linea spirali $abcde$ et recta $ah$ contento minor esse potest igitur illi aequalem esse necesse est. 
+ 73 
+ Corolarum. 
+ 
+ Eodem autem modo ostendetur spacium a linea spirali in quacunque revolutione descripta et a recta contentum quae secundum numerum revolutioni eundem nominetur ad circulum ab eodem numero denominatum eam habere proportionem quam utraque simul ista contentum sub semidiametro circuli a numero revolutionis dicti et sub semidiametro circuli dicti a numero qui sit unitate minor numero revolutionis et tertia pars quadrati ab ea linea producti qua semidiametrus maioris circuli ex praedictis excedit semidiametrum minoris circuli praedictorum ad quadratum semidiametri maioris circuli praedictorum. 
+ 74 
+ Propositio XXVI. 
+ 
+ Spacium quod continetur a linea spirali quae sit minor ea quam una revolutio describit queque non habeat terminum initium lineae spiralis sed lineas rectas a terminis suis ad lineae spiralis initium ductas habet ad frustum quod eam quae ex centro habeat aequalem maiori earum quae a terminis ad lineae spiralis initium ductae sint circumferentiam vero eam quae interdictas lineas media intercipitur in parte lineae spiralis, eam proportionem quam haec utraque simul contentum sub lineis quae a terminis ad lineae spiralis initium ductae sunt et tertia pars quadrati eius lineae qua maior dictarum linearum minorem excedit ad quadratum maioris earum quae a terminis ad lineae spiralis initium iunctae fuerunt. 
+ 75 
+ Esto linea spiralis in qua $abcde$ minor ea quam una revolutio describeret, eius sint termini $a$ $e$. 
+ Esto aut lineae spiralis initium punctum $h$ et centro $h$ intervallo autem $ha$ circulus describatur et concurrat eius circumferentia $he$ in puncto $f$. 
+ Ostendendum est spacium ab $abcde$ linea spirali et ab $ah$ $he$ contentum ad frustum $ahf$ eam habet proportionem quam utraque simul ista contentum sub $ah$ $he$ et tertia pars quadrati $ef$ lineae ad quadratum lineae $ha$. 
+ Esto itaque circulus in quo k$q$ qui semidiametrum cuius semidiametros sit in potentia aequalis contento sub $ah$ $he$ et tertiae parti quadrati $ef$ et sit angulus ad centrum eius aequalis angulo ad $h$ constituto. 
+ Frustum itaque k$q$ ad frustum $haf$ eandem habet proportionem quam contentum sub $ah$ $he$ et tertia pars quadrati $ef$ habet ad quadratum $ha$. 
+ Nam istorum semidiametri hanc proportionem potentia inter se habent. 
+ Ostendendum iam est frustum k$q$ aequale esse spacio contento sub $abcde$ linea spirali et sub $ah$ $he$ rectis. 
+ Nam si non vel maius erit vel minus, sit itaque primo maius si esse potest. 
+ Spacio igitur potest figura quaedam plana circumscribi ex frustis similibus composita ita ut ipsa addat super spacium minus eo quo k$q$ frustum excedit ipsum spacium dictum. 
+ Esto circumscripta et sit frustorum ex quibus componitur dicta figura maius quidem $ahk$ minus vero $hod$, manifestum est his postis figuram circumscriptam minorem haberi frusto k$q$. 
+ Iam actae sunto lineae quae faciant angulos aequales ad $h$ versus circumferentiam frusti $haf$ in quam incidunt. 
+ Erunt iam quaedam lineae rectae sese aequaliter excedentes quae ab $h$ in spiralem incurrunt, quarum maxima quidem $ha$ minima vero $he$, erunt item aliae lineae rectae numero quidem una pauciores illis quod magnitudine autem inter se et maximae illarum aequales quae a puncto $h$ ad frusti $ahf$ circumferentiam ductae ipsi occurrunt dempta $hf$ et ab omnibus confecta sunt frusta similia et ab his quae sese aequaliter excedeunt et ab his quae inter se et maximae illarum sunt aequales, et earum quae sese aequaliter excedunt, ab $he$ nil confcetum est. 
+ Frusta igitur quae a lineis inter sese aequalibus et maximae illarum confecta sunt ad frusta confecta ex \ a lineis sese equaliter excedentibus dempto quod a minima frusto minorem habent proportionem quam quadratum $ha$ ad haec utraque simul ad contentum sub $ha$ $he$ et tertiam partem quadrati $ef$. 
+ Frustis autem quae a lineis inter se et maxima aliarum aequalibus constant equatur frustum $haf$, illis vero quae a lineis sese equaliter excedentibus sunt circumscripta figura est aequalis. 
+ Minorem ergo proportionem habet $haf$ frustum ad figuram circumscriptam quam quadratum $ha$ ad utraque simul ad contentum sub $ha$ $he$ et tertiam partem quadrati $ef$; quam autem proportionem habet ad dicta quadratum lineae $ha$ eam habet frustum $haf$ ad frustum k$q$. 
+ Quare frustum k$q$ minus esse concluditur figura circumscripta; verum positum fuerat maius esse et demonstratum expositione. 
+ Non est igitur k$q$ frustum maius spacio contento sub $abcde$ linea spirali et $ha$ $he$. 
+ 76 
+ Neque utique minus esse potest. Ponatur namque minus si esse potest et reliqua eadem disponantur. 
+ Rursus spacio potest figura quaedam plana inscribi ex similibus frustis composita ita ut dictum spacium supra figuram inscriptam minus addat eo quo ipsum spacium excedit k$q$ frustum. 
+ Inscribatur itaque et frustorum ex quibus inscripta figura constituitur esto maius $hbc$ minus vero $ohe$. 
+ Constat igitur inscriptam figuram frusto k$q$ esse maiorem; rursus erunt quaedam lineae sese equaliter excedentes a puncto $h$ ad lineam spiralem accedentes quarum maxima quidem $ha$ minima vero $he$. 
+ Erunt quoque aliae inter se et maximae illarum aequales a puncto $h$ ad circumferentiam frusti $haf$ productae, excepta $ha$, quae numero quidem illis sunt una pauciores, magnitudine vero inter se et maximae aliarum aequaliter aequales et ab unaquaque frusta similia conscripta sunt, a maxima vero earum quae sese equaliter excedunt nullum conscriptum est. 
+ Frusta igitur a lineis aequalibus inter se et maximae aliarum confecta ad frusta a lineis sese aequaliter excedentibus contenta dempto eo quod a maxima maiorem habent proportionem quam quadratum $ha$ ad contentum sub $ha$ $he$ et tertiam partem quadrati $ef$; qua et frustum $haf$ ad figuram inscriptam maiorem habebit proportionem quam ad k$q$ frustum. 
+ Unde sequitur k$q$ frustum maius esse figura inscripta. 
+ At vero positum fuerat minus esse; non potest igitur frustum k$q$ minus esse spacio a spirali linea et rectis $ah$ $he$ comprehenso; quare eidem aequale esse necesse est. 
+ 77 
+ Propositio XXVII. 
+ 
+ Eorum quae continentur a lineis spiralibus et rectis quae in revolutionibus reputantur spaciorum id quidem quod tertium datur est duplum secundi, quartum est eius triplum, quintum est quadruplum et sic deinceps secundum numeros crescentes semper sequens spacium est multiplex secundi, primum autem spacium sexta pars secundi esse demonstratur. 
+ 78 
+ Esto linea spiralis proposita et in prima et in secunda et in ceteris deinceps descripta revolutionibus quotcunque. 
+ Esto punctum $h$ lineae spiralis initium et recta $he$ initium revolutionis. 
+ Primum vero spaciorum sit $k$ secundum $l$ tertium $m$ quartum $n$ quintum $x$. 
+ Ostendendum itaque spacium $k$ sextam partem esse spacii se sequentis et spacium $m$ duplum esse ipsius $l$ ipsum $n$ triplum ipsius $l$, et eorum quae sequuntur semper id quod deinceps sumitur multiplex ipsius $l$ secundum numeros se sequentes. 
+ Quod autem $k$ sit sexta pars ipsius $l$ sic ostenditur quoniam $kl$ spacium eam habere proportionem ad circulum secundum ostensum est quam habet septem ad duodecim. 
+ Secundum vero circulum ad primum circulum sicut duodecim ad tria constat; enim circulus vero primus ad spacium $k$ sicut tria ad unum habet $k$ igitur sexta pars est ipsius $l$. 
+ Rursus $klm$ spacium ad circulum tertium eam ostensum est habere proportionem quam utraque simul contentum sub $ch$ $hb$ et tertia pars quadrati $cb$ ad quadratum ipsius $ch$, tertius vero circulus habet ad secundum circulum sicut quadratum $ch$ ad quadratum $hb$; circulus item secundus habet ad $kl$ spacium sicut quadratum $hb$ ad utraque simul ad contentum sub $hb$ $ha$ et tertiam partem quadrati $ab$. 
+ Haec autem eam habent inter se quam decem et novem ad septem. Spacium vero $kl$ ad spacium $l$ sicut septem ad sex. 
+ Constat igitur spacium $m$ ipsius $l$ esse duplum, quod autem ea quae deinde sequuntur secundum numeros deinde sequentes habeant proportionem deinceps ostendetur. 
+ Nam $klmnx$ ad circulum cuius ea quae ex centro est $he$ eam habet proportionem quam utraque simul contentum sub $he$ $hd$ et tertia pars quadrati $de$ ad quadratum $he$. 
+ Circulus vero cuius quae ex centro est $he$ ad circulum cuius quae ex centro est $hd$ eam habet proportionem quam quadratum $he$ ad quadratum $hd$. 
+ Circulum autem cuius quae ex cento est $hd$ ad spacium $klmnx$ eam habet proportionem quam quadratum $hd$ ad utraque simul ista ad id quod continetur sub $hd$ $hc$ et tertiam partem quadrati $dc$; spacium igitur $klmnx$ ad spacium $klmn$ eam habet quam contentum sub $he$ $hd$ et tertia pars quadrati $de$ ad contentum sub $hd$ $hc$ et tertiam partem quadrati $dc$. 
+ Dividendo et spacium $x$ ad spacium $klmn$ eam habet quam excessus contenti sub $eh$ $hd$ cum tertia parte quadrati $ed$ ad contentum sub $dh$ $hc$ et terciam partem quadrati $dc$; utraque vero illa simul excedunt ista simul utraque eo quo contentum sub $eh$ $hd$ excedit contentum sub $dh$ $hc$. 
+ Excedunt autem eo quod sub $dh$ $ec$; spacium igitur $x$ ad spacium $klmn$ eam habet quam contentum sub $hd$ $ce$ ad contentum sub $dh$ $hc$ et tertiam partem quadrati $cd$. 
+ Per haec autem eadem ostendetur quod spacium $n$ ad spacium $klm$ eam habet quam contentum sub $hc$ $bd$ ad utraque simul ista ad contentum sub $ch$ $hb$ et tertiam partem quadrati $cb$. 
+ Spacium ergo $n$ ad spacium $klmn$ eam habet quam contentum sub $hc$ $bd$ ad contentum sub $hc$ $hb$et tertiam partem quadrati $cb$. 
+ Constat igitur et dividendo et conversim haec autem equantur contento sub $dh$ $hc$ et terciae parti quadrati $cd$. 
+ Quoniam igitur spacium $x$ ad spacium $klmn$ eam habet quam contentum sub $hd$ $ce$ ad utraque simul ista ad contentum sub $hd$ $hc$ et tertiam partem quadrati $cd$, spacium vero $klmn$ ad spacium eam quam utraque simul ista contentum sub $dh$ $hc$ et tertia pars quadrati $cd$ ad contentum sub $hc$ $db$. 
+ Habet igitur spacium $x$ ad spacium $n$ eam quam contentum sub $hd$ $ce$ ad contentum sub $hc$ $db$; contentum autem sub $hd$ $ce$ ad contentum sub $hc$ $db$ eam habet quam $hd$ ad $hc$ cum $ce$ sit ipsi $bd$ aequalis. 
+ Constat itaque quod spacium $x$ ad spacium $n$ eam habet quam $hd$ ad $hc$. 
+ Similiter ostendetur spacium $n$ ad spacium $m$ eam habere proportionem quam $hc$ ad $hb$ et $m$ ad $l$ sicut $bh$ ad $ah$; lineae vero $eh$ $dh$ $ch$ $bh$ $ah$ habent proportionem quam numeri deinceps continenter sumpti. 
+ 79 
+ Propositio XXVIII. 
+ 
+ Si in linea spirali quacunque revolutione decripta duo puncta sumantur quae non sint eius termini et ab istis ducantur lineae rectae ad initium lineae spiralis, et centro sperae initio, intervallis vero ipsis lineis quae ad initium spirae a punctis ductae sint circuli describantur spacium compraehensum ab ea maioris circumferentia circuli quae media inter lineas rectas et spiram inter easdem lineas lineas comprhensam et a linea extra ducta capitur eam habet proportionem ad spacium comprhensum a circumferentia minoris circuli et ab eadem spira et a linea recta quae earum terminos iungit quam quae ex centro circuli maioris cum terciis duabus excessus eius quo ea quae ex centro maioris circuli excedit eam quae ex centro minoris, ad eam quae ex centro maioris cum una eiusdem excessus tercia parte. 
+ 80 
+ Esto linea spiralis in qua $abcd$ in una revolutione descripta et sumantur in ea duo puncta $a$ $c$. 
+ Est punctum $h$ initium spirae et ab $a$ et $c$ ducatur ad $h$ lineae et centro $h$ intervallis $ha$ $hc$ circuli describantur. 
+ Ostendendum quod spacium $x$ ad spacium $p$ eam habet proportionem quam utraque simul $gh$ et duae terciae $g$ ad utramque simul ad $gh$ et unam terciam ipsius $ma$. 
+ Nam spacium $np$ ad frustum $gch$ ostensum est eam habere proportionem quam habet contentum sub $gh$ $ha$ et tertia pars quadrati $ag$ ad quadratum $hg$. 
+ Ipsum ergo $x$ ad $np$ eam habet quam contentum sub $ha$ $ag$ et duae tertiae quadrati $ag$ ad utraque simul ad contentum sub $ah$ $hg$ et tertiam partem quadrati $ga$, et quoniam spacium $np$ ad frustum $ngx$ eam habet quam utraque simul contentum sub $ha$ $hg$ et tertia pars quadrati $ga$ ad quadratum $hg$. 
+ Frustum autem $ngx$ ad frustum $n$ eam habet quam quadratum $hg$ ad quadratum $ha$; spacium quoque $np$ ad ipsum $n$ eam habebit quam utraque simul contentum sub $ha$ $hg$ et tercia pars quadrati $ga$ ad quadratum $ha$. 
+ Igitur $np$ ad $pl$ eam habet quam utraque simul contentum sub $gh$ $ha$ et tercia pars quadrati $ma$ ad utraque simul ad contentum sub $ga$ $he$ et tertiam partem quadrati $ga$. Quoniam spacium $x$ ad $np$ eam habet quam utraque simul contentum sub $ha$ $ag$ et duae terciae quadrati $ga$ ad utraque simul ad contentum sub $gh$ $ha$ et tertiam partem quadrati $ga$. 
+ Spacium autem $np$ ad $p$ eam habet quam utraque simul contentum sub $gh$ $ha$ et tercia pars quadrati $ga$ ad utraque simul ad contentum sub $ga$ $ah$ et terciam partem quadrati $ga$. 
+ Habebit quoque $x$ ad $p$ eam quam habent utraque simul contentum sub $hg$ $ga$ et duae tertiae quadati $ga$ ad utraque simul ad contentum sub $hg$ $ga$ et tertiam partem quadrati $ga$. 
+ Ista vero utraque simul contentum sub $hg$ $ga$ et duae terciae quadrati $ga$ ad utraque simul ad contentum sub $hg$ $ga$ et tertiam partem quadrati $ga$ eam habent quam utraque simul ipsa $hg$ et duae terciae ipsius $ga$ ad utraque simul ad ipsam $hg$ et tertiam partem ipsius $ga$. 
+ Constat igitur spacium $x$ ad spacium $n$ eam habet proportionem quam utraque simul ipsa $hg$ et duae tertiae ipsius $ga$ ad ipsam $hg$ et terciam ipsius $ga$ utraque simul sumpta. 
+ 81 
+ Finit Archimedis tractatus de lineis spiralibus feliciter. 
