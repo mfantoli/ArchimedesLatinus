@@ -442,7 +442,7 @@
 18	eadem	_	PRON	_	_	19	det	_	_
 19	base	_	NOUN	_	_	22	obj	_	_
 20	et	_	CCONJ	_	_	23	cc	_	_
-21	eadem	_	PRON	_	_	23	conj	_	_
+21	eadem	_	PRON	_	_	23	det	_	_
 22	constet	_	VERB	_	_	16	acl	_	_
 23	altitudine	_	NOUN	_	_	19	conj	_	_
 24	cum	_	ADP	_	_	25	case	_	_
